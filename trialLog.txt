@@ -1,0 +1,38 @@
+Training accuracy: 0.858837890625
+Validation accuracy: 0.8159845132743364
+{'model_params': {'layers': 1, 'vocab_size': 73952, 'embedding_dim': 400, 'hidden_size': 256, 'lstm_dropout': 0, 'layer_dropout': 0}, 'training_params': {'loss_function': 'BCELoss', 'optimizer': 'Adam', 'batch_size': 512, 'learning_rate': 0.001, 'epochs': 4, 'weight_decay': 0}}
+
+Training accuracy: 0.9318359375
+Validation accuracy: 0.7517457134955752
+{'model_params': {'layers': 1, 'vocab_size': 73952, 'embedding_dim': 400, 'hidden_size': 256, 'lstm_dropout': 0, 'layer_dropout': 0}, 'training_params': {'loss_function': 'BCELoss', 'optimizer': 'Adam', 'batch_size': 512, 'learning_rate': 0.001, 'epochs': 10, 'weight_decay': 0}}
+
+Training accuracy: 0.71611328125
+Validation accuracy: 0.6698527378318584
+Test accuracy: N/A
+{'model_params': {'layers': 1, 'vocab_size': 73952, 'embedding_dim': 400, 'hidden_size': 256, 'lstm_dropout': 0, 'layer_dropout': 0}, 'training_params': {'loss_function': 'BCELoss', 'optimizer': 'Adam', 'batch_size': 512, 'learning_rate': 0.001, 'epochs': 15, 'weight_decay': 0.001}}
+
+Training accuracy: 0.972998046875
+Validation accuracy: 0.7887721238938054
+Test accuracy: N/A
+{'model_params': {'layers': 1, 'vocab_size': 73952, 'embedding_dim': 400, 'hidden_size': 256, 'lstm_dropout': 0, 'layer_dropout': 0.3}, 'training_params': {'loss_function': 'BCELoss', 'optimizer': 'Adam', 'batch_size': 512, 'learning_rate': 0.001, 'epochs': 15, 'weight_decay': 0}}
+
+Training accuracy: 0.93740234375
+Validation accuracy: 0.7886684181415929
+Test accuracy: N/A
+{'model_params': {'layers': 1, 'vocab_size': 73952, 'embedding_dim': 400, 'hidden_size': 256, 'lstm_dropout': 0, 'layer_dropout': 0.3}, 'training_params': {'loss_function': 'BCELoss', 'optimizer': 'Adam', 'batch_size': 512, 'learning_rate': 0.001, 'epochs': 10, 'weight_decay': 0}}
+
+Training accuracy: 0.896826171875
+Validation accuracy: 0.7433351769911505
+Test accuracy: N/A
+{'model_params': {'layers': 1, 'vocab_size': 73952, 'embedding_dim': 400, 'hidden_size': 256, 'lstm_dropout': 0, 'layer_dropout': 0.45}, 'training_params': {'loss_function': 'BCELoss', 'optimizer': 'Adam', 'batch_size': 512, 'learning_rate': 0.001, 'epochs': 15, 'weight_decay': 0}}
+
+Training accuracy: 0.87685546875
+Validation accuracy: 0.7846308075221239
+Test accuracy: 0.7846826603982301
+{'model_params': {'layers': 1, 'vocab_size': 73952, 'embedding_dim': 400, 'hidden_size': 256, 'lstm_dropout': 0, 'layer_dropout': 0}, 'training_params': {'loss_function': 'BCELoss', 'optimizer': 'Adam', 'batch_size': 512, 'learning_rate': 0.001, 'epochs': 5, 'weight_decay': 0}}
+
+Training accuracy: 0.858837890625
+Validation accuracy: 0.8159845132743364
+Test accuracy: 0.8016108960176991
+{'model_params': {'layers': 1, 'vocab_size': 73952, 'embedding_dim': 400, 'hidden_size': 256, 'lstm_dropout': 0, 'layer_dropout': 0}, 'training_params': {'loss_function': 'BCELoss', 'optimizer': 'Adam', 'batch_size': 512, 'learning_rate': 0.001, 'epochs': 4, 'weight_decay': 0}}
+
